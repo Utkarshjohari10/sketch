@@ -1,0 +1,79 @@
+.sketch{
+    border-radius: 60%;
+}
+body{
+    background-color:#D3DEDC;
+}
+.eyes{
+    border-radius: 60%;
+}
+h1{
+    color: #676FA3;
+}
+hr{
+    border: dotted #086E7D 6px;
+    margin: 100px auto;
+    border-bottom: none;
+    width: 7%;
+}
+h3{
+    color: #676FA3;
+}
+p{
+     font-family: island moments;
+     color: #781C68;
+     font-size: xx-large;
+     line-height: 1.5;
+}
+p:hover{
+    color: royalblue;
+}
+.varsha{
+    border-radius: 50%;
+}
+.end{
+    border-radius: 80%;
+}
+span{
+    color: yellow;
+}
+.end{
+    float: left;
+    margin-right: 10px;
+}
+.you{
+    text-align: center;
+    font-size: xx-large;
+}
+.contact{
+    background-color: lightskyblue;
+    padding: 20px;
+
+}
+a:hover{
+    color: white;
+}
+a{
+    margin: 10px 20px;
+}
+h2{
+    color: #676FA3;
+}
+.date{
+    color: black;
+}
+.top{
+    text-align: center;
+}
+.journey{
+    text-align: center;
+}
+.look{
+    text-align: center;
+}
+.final{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
